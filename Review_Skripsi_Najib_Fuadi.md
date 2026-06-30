@@ -1,6 +1,6 @@
 # Review Skripsi: Najib Fuadi
 
-Berikut adalah review untuk skripsi Najib Fuadi. Secara umum, topiknya layak untuk skripsi S1 Geofisika dan relevan: analisis dimensionalitas Magnetotelluric (MT), *geoelectrical strike*, dan korelasinya dengan *geological strike* untuk sistem panas bumi Pantar/NUN. Namun, sebelum sidang, naskah ini perlu revisi mayor-menengah, terutama pada konsistensi metodologi, kualitas gambar, dan justifikasi interpretasi.
+Berikut adalah review untuk skripsi Najib Fuadi. Secara umum, topiknya layak untuk skripsi S1 Geofisika dan relevan: analisis dimensionalitas Magnetotelluric (MT), *geoelectrical strike*, dan korelasinya dengan *geological strike* untuk sistem panas bumi Pantar/NUN. Namun, sebelum dinyatakan lulus, naskah ini perlu revisi mayor-menengah, terutama pada konsistensi metodologi, kualitas gambar, dan justifikasi interpretasi.
 
 ## 1. Temuan Utama yang Paling Penting
 
@@ -82,4 +82,4 @@ Tambahkan referensi yang lebih spesifik mengenai:
 
 ## 8. Keputusan Akademik Sementara
 
-Naskah ini memiliki potensi untuk dilanjutkan ke sidang, namun belum ideal. Fokus revisi bukan menambah teori, melainkan membuat hasil lebih terukur, *reproducible*, dan tidak *overclaim*.
+Naskah ini perlu direvisi. Fokus revisi bukan menambah teori, melainkan membuat hasil lebih terukur, *reproducible*, dan tidak *overclaim*.
