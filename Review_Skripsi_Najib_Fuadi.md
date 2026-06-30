@@ -83,3 +83,51 @@ Tambahkan referensi yang lebih spesifik mengenai:
 ## 8. Keputusan Akademik Sementara
 
 Naskah ini perlu direvisi. Fokus revisi bukan menambah teori, melainkan membuat hasil lebih terukur, *reproducible*, dan tidak *overclaim*.
+
+# Pertanyaan Sidang Skripsi: Metode Magnetotellurik (MT)
+
+---
+
+## A. Pertanyaan Dasar
+
+1.  **Prinsip Dasar Magnetotellurik (MT):** Jelaskan prinsip dasar metode magnetotellurik dan mengapa metode ini cocok digunakan untuk eksplorasi panas bumi.
+    *   *Yang diuji:* Pemahaman sumber medan EM alami, tensor impedansi, resistivitas bawah permukaan, serta hubungan resistivitas dengan *clay cap*, *reservoir*, fluida, dan *heat source*.
+
+2.  **Geological Strike vs. Geoelectrical Strike:** Apa yang dimaksud dengan *geological strike* dan *geoelectrical strike*? Jelaskan perbedaannya.
+    *   *Yang diuji:* Pemahaman bahwa *geological strike* berasal dari struktur geologi/lineament permukaan, sedangkan *geoelectrical strike* berasal dari orientasi kontras konduktivitas bawah permukaan pada data MT.
+
+3.  **Komponen Sistem Panas Bumi:** Dalam sistem panas bumi vulkanik, sebutkan komponen utama sistem panas bumi dan bagaimana masing-masing dapat tercermin dalam model resistivitas.
+    *   *Yang diuji:* Pemahaman *heat source*, *reservoir*, *cap rock*, fluida, zona alterasi, dan manifestasi permukaan.
+
+---
+
+## B. Pertanyaan Menengah
+
+1.  **Pentingnya Analisis Dimensionalitas:** Mengapa analisis dimensionalitas penting dilakukan sebelum interpretasi atau inversi data magnetotellurik?
+    *   *Yang diuji:* Kesadaran bahwa data 1D, 2D, dan 3D memerlukan pendekatan interpretasi/inversi berbeda; asumsi dimensionalitas yang salah dapat menghasilkan model resistivitas yang bias atau ambigu.
+
+2.  **Interpretasi Phase Tensor:** Jelaskan bagaimana *phase tensor* digunakan untuk menilai dimensionalitas data MT. Apa makna bentuk elips dan nilai $\beta$ *phase tensor*?
+    *   *Yang diuji:* Pemahaman *phase tensor*, invariansi terhadap distorsi galvanik, perbedaan karakter 1D/2D/3D, serta interpretasi nilai *skew* atau $\beta$.
+
+3.  **Metodologi Lineament & FFD:** Pada skripsi ini *geological strike* diperoleh dari delineasi lineament DEMNAS dan analisis FFD. Apa kelemahan metode ini, dan bagaimana cara memvalidasinya?
+    *   *Yang diuji:* Kemampuan kritis terhadap subjektivitas lineament, pengaruh *azimuth hillshade*, kemungkinan lineament non-tektonik (sungai/jalan), serta pentingnya validasi dengan peta geologi, manifestasi, citra satelit, atau data lapangan.
+
+---
+
+## C. Pertanyaan Lanjut
+
+1.  **Ambiguitas Strike:** Dalam MT, arah *geoelectrical strike* memiliki ambiguitas 90° atau 180°. Bagaimana Anda menentukan arah *strike* yang paling geologis pada kasus Lapangan Panas Bumi NUN?
+    *   *Yang diuji:* Pemahaman lanjut tentang *ambiguity strike*, integrasi dengan lineament, *tipper strike*, peta geologi, struktur regional, dan kehati-hatian agar interpretasi tidak *circular*.
+
+2.  **Variasi Orientasi Strike:** Skripsi ini menyebut adanya perubahan orientasi *geoelectrical strike* dari dominan N–S pada periode pendek-menengah menjadi E–W pada periode panjang. Apa saja kemungkinan penyebab fisiknya? Bagaimana Anda membedakan apakah itu akibat struktur dalam, efek laut (*coast effect*), atau *noise/data quality*?
+    *   *Yang diuji:* Kemampuan menafsirkan variasi *strike* terhadap periode/kedalaman, pengaruh *coast effect*, struktur regional, kualitas data MT, *tipper*, dan kebutuhan uji sensitivitas/inversi.
+
+3.  **Konsekuensi Dimensionalitas:** Jika hasil *phase tensor* menunjukkan karakter 2D–3D pada periode tertentu, tetapi mahasiswa tetap menggunakan atau menampilkan inversi 2D, apa konsekuensi ilmiahnya? Bagaimana Anda akan memperbaiki desain analisisnya?
+    *   *Yang diuji:* Pemahaman hubungan dimensionalitas dengan inversi, risiko artefak model 2D, kapan inversi 2D masih dapat dibenarkan, perlunya rotasi *strike*, inversi 3D, atau minimal validasi dengan beberapa lintasan dan parameter dimensionalitas.
+
+---
+
+## Pertanyaan Tambahan (Sidang)
+
+*   **Interpretasi Hasil:** “Dalam kesimpulan Anda, disebutkan zona konduktif dangkal sebagai alterasi hidrotermal dan zona resistif dalam sebagai *basement*. Bukti mana yang paling kuat dari data Anda untuk mendukung interpretasi tersebut, dan bukti mana yang masih bersifat asumsi?”
+    *   *Tujuan:* Menguji apakah mahasiswa bisa membedakan hasil langsung dari data, interpretasi geofisika, dan asumsi konseptual panas bumi.
